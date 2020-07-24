@@ -1,5 +1,6 @@
 # Write your solution here
-time = Time.now.to_i
+time = Time.now
+time = time.to_i
 
 if time % 2 == 0:
   puts "Even!"
