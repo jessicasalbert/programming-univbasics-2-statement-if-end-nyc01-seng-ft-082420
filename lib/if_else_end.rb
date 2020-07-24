@@ -4,6 +4,6 @@ time = time.to_i
 
 if time % 2 == 0
   puts "Even!"
-else:
+else
   puts "Odd!"
 end
